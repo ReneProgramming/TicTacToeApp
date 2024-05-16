@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="tictactoe">TicTacToe</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+    <string name="button5">Button</string>
+    <string name="button6">Button</string>
+    <string name="button7">Button</string>
+    <string name="button8">Button</string>
+    <string name="button9">Button</string>
+    <string name="playerTurn">Player X\'s turn</string>
+    <string name="newGame">New Game</string>
+    <string name="player_x_turn">Player X\'s Turn</string>
+    <string name="player_o_turn">Player O\'s Turn</string>
+    <string name="player_x_wins">Player X Wins!</string>
+    <string name="player_o_wins">Player O Wins!</string>
+    <string name="game_tie">It\'s a Tie!</string>
+</resources>
